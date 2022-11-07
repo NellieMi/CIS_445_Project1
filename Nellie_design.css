@@ -1,0 +1,117 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 1, 2022, 10:19:41 PM
+    Author     : 
+*/
+
+
+
+html{
+    margin: 0px 50px 0px 50px;
+    
+}
+ nav {
+    overflow: hidden;
+    background-color: #000500;
+} 
+
+#pages{
+    background-color: #FFFBFF;
+    padding: 0px;
+}
+
+#pages ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#pages ul li{
+   float: left;
+
+}
+#pages ul li a{
+   
+    display: block;
+    text-align: center;
+    padding:10px 12px;
+    text-decoration: none;
+    
+}
+#pages ul li a:hover{
+    background-color: #D6DBD2;
+}
+
+.hobbies{
+    background-color: #FFFBFF;
+}
+
+h2{
+    text-align: center;
+}
+
+#car{
+    background-color: #FFEDE3;
+}
+p {
+    font-family: serif;
+    font-size: 19px;
+}
+div{
+    padding: 15px;
+}
+h1{
+    float: left;
+    text-shadow: -4px 4px 6px dimgrey;
+    font-size: 300%;
+    margin-left: 30px;
+    color: #EEE2DF;
+} 
+           
+
+
+.box {
+    text-align: left;
+    background-image: url(Peoria2.jfif);
+    padding: 70px; height: 80px;
+    background-size: cover;
+    background-position: center;
+}
+
+#Values{
+    background-image: url(IMG_0425.JPG);
+    background-position: top;
+}
+
+
+#wel {
+    list-style: none;
+    background-color: #FFFBFF;
+    overflow: hidden;    
+}
+
+#wel img {
+    padding-right: 25px;
+    float: left;
+    width: 300px;
+    height: 250px;
+    object-position: center;
+}
+
+#Qual{
+    background-color:#B1A099;
+
+}
+
+footer{ 
+    background-color: #000500; 
+    color: white;
+    padding: 4px;
+    
+}
+footer h3{
+    text-align: center;
+}
+
